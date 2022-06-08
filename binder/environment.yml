@@ -1,0 +1,9 @@
+name: public_jbook_test
+channels:
+  - conda-forge
+dependencies:
+  - python=3.*
+  - jupyterlab=3.*
+  - numpy
+  - pandas
+  - matplotlib
